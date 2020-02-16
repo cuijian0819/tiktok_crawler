@@ -4,7 +4,7 @@ In the crawler_practice.py, I use the python to crawl all the content of each ch
 
 Through this exercise, we can learn the basic techniques needed to build a web crawler.
 
-### Target Website: https://www.17k.com/list/3073808.html
+(target website: https://www.17k.com/list/3073808.html)
 
 ### Reference: 
 
